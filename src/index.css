@@ -1,0 +1,10 @@
+.card{
+  width: 350px;
+}
+.bar{
+  width: 520px;
+}
+.d-flex{
+  position: relative;
+  left: 20px;
+}
